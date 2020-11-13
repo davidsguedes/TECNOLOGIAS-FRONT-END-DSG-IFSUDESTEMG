@@ -1,0 +1,23 @@
+{
+  "name": "arquitetei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init:sass": "node-sass sass/main.scss scssfile.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsguedes/TECNOLOGIAS-FRONT-END-DSG-IFSUDESTEMG.git"
+  },
+  "author": "David Guedes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidsguedes/TECNOLOGIAS-FRONT-END-DSG-IFSUDESTEMG/issues"
+  },
+  "homepage": "https://github.com/davidsguedes/TECNOLOGIAS-FRONT-END-DSG-IFSUDESTEMG#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
